@@ -1,4 +1,4 @@
-public class prog {
+public class prasanna {
 
   public static void main(String[] args) {
 
